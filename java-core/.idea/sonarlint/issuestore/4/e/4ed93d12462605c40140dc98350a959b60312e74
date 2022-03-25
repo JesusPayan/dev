@@ -1,0 +1,8 @@
+
+L
+java:S1854	"6Remove this useless assignment to local variable "in".(äÆ¾Ó
+=
+java:S1481	"'Remove this unused "in" local variable.(äÆ¾Ó
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(ó‚íôüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÆ¯Üùÿÿÿÿ

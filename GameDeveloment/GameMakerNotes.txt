@@ -1,0 +1,16 @@
+Shortcuts GME2
+crtl + t -> find a file.
+
+to create a new object:
+goto to Object folder right click -> create new ->  object
+- nomenclature to name and object:
+ objObjectName
+ViewPort its the space that the camera con watch.
+
+Objects Movement 
+whit keydown
+variable declaration:
+speedPlayer = 1;
+-----------------------
+room
+intance permite arrastrar las instancias de los objetos

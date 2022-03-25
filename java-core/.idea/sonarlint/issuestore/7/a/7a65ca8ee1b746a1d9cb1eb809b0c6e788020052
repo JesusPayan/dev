@@ -1,0 +1,13 @@
+
+E
+java:S3740
+"/Provide the parametrized type for this generic.(üáÁÔ
+?
+java:S1481")Remove this unused "name" local variable.(Ê§…ñ
+>
+java:S1481"(Remove this unused "age" local variable.(…ä™Ž
+@
+java:S1481"+Remove this unused "adress" local variable.(ï–ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–ùŒ©ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ßë‘Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïíæ¤ýÿÿÿÿ

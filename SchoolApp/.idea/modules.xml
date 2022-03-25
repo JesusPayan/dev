@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SchoolApp.iml" filepath="$PROJECT_DIR$/.idea/SchoolApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackEnd/schoolarapp-api/schoolarapp-api/schoolarapp-api.iml" filepath="$PROJECT_DIR$/BackEnd/schoolarapp-api/schoolarapp-api/schoolarapp-api.iml" />
+    </modules>
+  </component>
+</project>
